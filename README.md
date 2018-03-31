@@ -1,4 +1,5 @@
 # CTFtools
+Personal collection of favorite tools to solve CTF challenges
 
 ## Reverse Engineering
 Dissasembler/Debugger-> Radare2 [github](https://github.com/radare/radare2) + GUI cutter [github](https://github.com/radareorg/cutter)
