@@ -6,7 +6,7 @@ Dissasembler/Debugger-> Radare2 [github](https://github.com/radare/radare2) + GU
 
 Find packer,obfuscation-> Detect It easy [github](https://github.com/horsicq/Detect-It-Easy), PEiD, checksec
 
-Other -> IDA, Hopper, Snowman [site](https://derevenets.com/) produces nice cod
+Other -> IDA, Hopper, Snowman [site](https://derevenets.com/) produces nice code
 
 Recon/Utilities -> readelf, file, elfutils, strace, ltrace
 
