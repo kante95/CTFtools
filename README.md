@@ -2,7 +2,7 @@
 Personal collection of favorite tools to solve CTF challenges
 
 ## Reverse Engineering
-Dissasembler/Debugger-> Radare2 [github](https://github.com/radare/radare2) + GUI cutter [github](https://github.com/radareorg/cutter)
+Dissasembler/Debugger-> Radare2 [github](https://github.com/radare/radare2) + GUI cutter [github](https://github.com/radareorg/cutter), GDB Peda [github](https://github.com/longld/peda)
 
 Find packer,obfuscation-> Detect It easy [github](https://github.com/horsicq/Detect-It-Easy), PEiD, checksec
 
