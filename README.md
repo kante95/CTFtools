@@ -8,10 +8,15 @@ Find packer,obfuscation-> Detect It easy [github](https://github.com/horsicq/Det
 
 Other -> IDA, Hopper, Snowman [site](https://derevenets.com/) produces nice code
 
+Recon -> readelf, file, elfutils
+
 ## Forensics/Stego
 Text hidden in image: Zsteg [github](https://github.com/zed-0xff/zsteg)
 
 Images hidden in image: [This worked once](https://osric.com/chris/steganography/decode.html)
 
+File recognition: binwalk, file
+
+Images meta: exiftool
 ## Web Exploitation
 Must have: BurpSuite
