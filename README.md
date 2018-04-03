@@ -19,4 +19,4 @@ File recognition -> binwalk, file
 
 Images meta -> exiftool
 ## Web Exploitation
-Must have -> BurpSuite
+Cheat sheet -> [site](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
