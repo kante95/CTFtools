@@ -18,5 +18,10 @@ Images hidden in image -> [This worked once](https://osric.com/chris/steganograp
 File recognition -> binwalk, file
 
 Images meta -> exiftool
+
 ## Web Exploitation
 Cheat sheet -> [site](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)
+
+## Intel Gathering
+
+Linux host -> [site](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) useful for enumerating basic configuration
