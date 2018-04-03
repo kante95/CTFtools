@@ -25,3 +25,5 @@ Cheat sheet -> [site](https://jdow.io/blog/2018/03/18/web-application-penetratio
 ## Intel Gathering
 
 Linux host -> [site](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) useful for enumerating basic configuration
+
+Windows host [site] useful for Windows exploration.
